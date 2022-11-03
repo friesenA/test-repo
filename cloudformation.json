@@ -467,7 +467,6 @@
         "Runtime": "nodejs14.x",
         "FunctionName": "service-source-accounts-local-createGitHubIntTest",
         "MemorySize": 512,
-        "Timeout": 20,
         "Tags": [
           {
             "Key": "SERVICE",
